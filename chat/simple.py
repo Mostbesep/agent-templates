@@ -2,7 +2,7 @@
 from langchain_ollama import ChatOllama
 
 
-# Create a ChatOpenAI model
+# Create a ChatOllama model
 model = ChatOllama(model="deepseek-r1")
 
 # Invoke the model with a message
